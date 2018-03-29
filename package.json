@@ -1,0 +1,25 @@
+{
+  "name": "mapboxgl-d3-playground",
+  "version": "0.0.1",
+  "description": "mapbox-d3-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asy32x/mapboxgl-d3-playground.git"
+  },
+  "keywords": [
+    "mapbox"
+  ],
+  "author": "ak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asy32x/mapboxgl-d3-playground/issues"
+  },
+  "homepage": "https://github.com/asy32x/mapboxgl-d3-playground#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
